@@ -1,6 +1,5 @@
 import copy
 import torch
-
 from .client import Client
 from .minimizers import SAM
 
